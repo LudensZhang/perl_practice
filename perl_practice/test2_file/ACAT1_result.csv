@@ -1,0 +1,14 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-21-5p,MIMAT0000076,ACAT1,38,Microarray,18591254,Bone marrow
+hsa-mir-23b-3p,MIMAT0000418,ACAT1,38,Sequencing,20371350,Bone marrow
+hsa-mir-9-5p,MIMAT0000441,ACAT1,38,Luciferase reporter assay//qRT-PCR//Western blot,24028971,Bone marrow
+hsa-mir-1260b,MIMAT0015041,ACAT1,38,CLASH,23622248,Bone marrow
+hsa-mir-103a-3p,MIMAT0000101,ACAT1,38,PAR-CLIP,tarbase,Bone marrow
+hsa-mir-107,MIMAT0000104,ACAT1,38,PAR-CLIP,tarbase,Bone marrow
+hsa-mir-23a-3p,MIMAT0000078,ACAT1,38,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-1-3p,MIMAT0000416,ACAT1,38,"RPF-Seq, RNA-Seq",tarbase,Bone marrow
+hsa-mir-10b-5p,MIMAT0000254,ACAT1,38,Microarrays,tarbase,Bone marrow
+hsa-mir-147a,MIMAT0000251,ACAT1,38,Microarrays,tarbase,Bone marrow
+hsa-mir-20a-5p,MIMAT0000075,ACAT1,38,Microarrays,tarbase,Bone marrow
+hsa-mir-224-5p,MIMAT0000281,ACAT1,38,Microarrays,tarbase,Bone marrow
+hsa-mir-671-5p,MIMAT0003880,ACAT1,38,Microarrays,tarbase,Bone marrow

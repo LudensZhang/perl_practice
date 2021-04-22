@@ -1,0 +1,58 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-21-5p,MIMAT0000076,FMR1,2332,Microarray,18591254,Bone marrow
+hsa-mir-101-3p,MIMAT0000099,FMR1,2332,Luciferase reporter assay,23390134,Bone marrow
+hsa-mir-129-5p,MIMAT0000242,FMR1,2332,Luciferase reporter assay,23390134,Bone marrow
+hsa-mir-221-3p,MIMAT0000278,FMR1,2332,Luciferase reporter assay,23390134,Bone marrow
+hsa-mir-130b-3p,MIMAT0000691,FMR1,2332,Luciferase reporter assay//qRT-PCR//Western blot,24021279,Bone marrow
+hsa-mir-374a-5p,MIMAT0000727,FMR1,2332,HITS-CLIP,22473208,Bone marrow
+hsa-mir-1180-3p,MIMAT0005825,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-137,MIMAT0000429,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-141-5p,MIMAT0004598,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-142-3p,MIMAT0000434,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-149-5p,MIMAT0000450,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-19a-3p,MIMAT0000073,FMR1,2332,"HITS-CLIP, PAR-CLIP",tarbase,Bone marrow
+hsa-mir-19b-3p,MIMAT0000074,FMR1,2332,"HITS-CLIP, PAR-CLIP",tarbase,Bone marrow
+hsa-mir-203a-3p,MIMAT0000264,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-29b-2-5p,MIMAT0004515,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-29c-5p,MIMAT0004673,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-345-5p,MIMAT0000772,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-34b-5p,MIMAT0000685,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-34c-5p,MIMAT0000686,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-361-5p,MIMAT0000703,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-374b-5p,MIMAT0004955,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-378a-5p,MIMAT0000731,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-425-5p,MIMAT0003393,FMR1,2332,"HITS-CLIP, PAR-CLIP",tarbase,Bone marrow
+hsa-mir-449b-5p,MIMAT0003327,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-449c-5p,MIMAT0010251,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-452-5p,MIMAT0001635,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-454-3p,MIMAT0003885,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-499a-3p,MIMAT0004772,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-500a-5p,MIMAT0004773,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-501-5p,MIMAT0002872,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-561-3p,MIMAT0003225,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-589-3p,MIMAT0003256,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-624-3p,MIMAT0004807,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-629-5p,MIMAT0004810,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-933,MIMAT0004976,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-940,MIMAT0004983,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-941,MIMAT0004984,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-96-5p,MIMAT0000095,FMR1,2332,PAR-CLIP,tarbase,Bone marrow
+hsa-mir-132-3p,MIMAT0000426,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-139-5p,MIMAT0000250,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-148b-3p,MIMAT0000759,FMR1,2332,"HITS-CLIP, Microarrays",tarbase,Bone marrow
+hsa-mir-153-3p,MIMAT0000439,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-377-3p,MIMAT0000730,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-485-3p,MIMAT0002176,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-495-3p,MIMAT0002817,FMR1,2332,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-1-3p,MIMAT0000416,FMR1,2332,RPF-Seq,tarbase,Bone marrow
+hsa-let-7b-5p,MIMAT0000063,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-129-2-3p,MIMAT0004605,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-147a,MIMAT0000251,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-210-3p,MIMAT0000267,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-214-3p,MIMAT0000271,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-224-5p,MIMAT0000281,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-155-5p,MIMAT0000646,FMR1,2332,Chimeric fragments,tarbase,Bone marrow
+hsa-mir-9-5p,MIMAT0000441,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-30a-5p,MIMAT0000087,FMR1,2332,Microarrays,tarbase,Bone marrow
+hsa-mir-19b,MIMAT0000074,FMR1,2332,other,20435064,Bone marrow
+hsa-mir-323-3p,MIMAT0000755,FMR1,2332,other,20435064,Bone marrow

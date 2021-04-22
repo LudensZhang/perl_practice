@@ -1,0 +1,459 @@
+ID	Accession	Target	TargetID	Experiment	Literature	Tissue
+hsa-mir-15a-5p	MIMAT0000068	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-16-5p	MIMAT0000069	DDX3X	1654	PAR-CLIP//Proteomics	18668040|24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-19a-3p	MIMAT0000073	DDX3X	1654	PAR-CLIP	23446348|21572407|20371350	Bone marrow
+hsa-mir-19b-3p	MIMAT0000074	DDX3X	1654	PAR-CLIP	23446348|21572407|20371350	Bone marrow
+hsa-mir-19b-3p	MIMAT0000074	ELOVL4	6785	Sequencing	20371350	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	ACAT1	38	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	HAPLN1	1404	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	DDX3X	1654	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	MEGF9	1955	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	FMR1	2332	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	IL12A	3592	Luciferase reporter assay//Microarray//qRT-PCR//Western blot	22815788|25327529|27571873	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	OLR1	4973	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	RNF6	6049	PAR-CLIP	21572407	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	SOD3	6649	Luciferase reporter assay	22836756	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	ELOVL4	6785	Microarray	18591254	Bone marrow
+hsa-mir-21-5p	MIMAT0000076	MRAP2	112609	Microarray	18591254	Bone marrow
+hsa-mir-23a-3p	MIMAT0000078	HAPLN1	1404	HITS-CLIP	23824327	Bone marrow
+hsa-mir-24-3p	MIMAT0000080	OLR1	4973	HITS-CLIP	23824327	Bone marrow
+hsa-mir-25-3p	MIMAT0000081	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-26a-5p	MIMAT0000082	DDX3X	1654	PAR-CLIP	21572407	Bone marrow
+hsa-mir-26a-5p	MIMAT0000082	RNF6	6049	PAR-CLIP	24398324|21572407|20371350	Bone marrow
+hsa-mir-26b-5p	MIMAT0000083	DDX3X	1654	PAR-CLIP//Sequencing	20371350|21572407	Bone marrow
+hsa-mir-26b-5p	MIMAT0000083	IL12A	3592	Microarray	19088304	Bone marrow
+hsa-mir-26b-5p	MIMAT0000083	RNF6	6049	PAR-CLIP//Sequencing	20371350|24398324|21572407	Bone marrow
+hsa-mir-27a-3p	MIMAT0000084	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-32-5p	MIMAT0000090	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-92a-3p	MIMAT0000092	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-98-5p	MIMAT0000096	OLR1	4973	Microarray	19088304	Bone marrow
+hsa-mir-99a-5p	MIMAT0000097	DDX3X	1654	CLASH	23622248	Bone marrow
+hsa-mir-101-3p	MIMAT0000099	FMR1	2332	Luciferase reporter assay	23390134	Bone marrow
+hsa-mir-192-5p	MIMAT0000222	DDX3X	1654	Microarray	16822819|19074876	Bone marrow
+hsa-mir-192-5p	MIMAT0000222	RNF6	6049	Microarray	19074876	Bone marrow
+hsa-mir-197-3p	MIMAT0000227	MEGF9	1955	CLASH	23622248	Bone marrow
+hsa-mir-199a-5p	MIMAT0000231	DDX3X	1654	PAR-CLIP	21572407	Bone marrow
+hsa-mir-129-5p	MIMAT0000242	HAPLN1	1404	HITS-CLIP	27418678	Bone marrow
+hsa-mir-129-5p	MIMAT0000242	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-129-5p	MIMAT0000242	FMR1	2332	Luciferase reporter assay	23390134	Bone marrow
+hsa-mir-30c-5p	MIMAT0000244	ELOVL4	6785	CLASH	23622248	Bone marrow
+hsa-mir-10a-5p	MIMAT0000253	IL12A	3592	ELISA//qRT-PCR	25281418	Bone marrow
+hsa-mir-181a-5p	MIMAT0000256	DDX3X	1654	CLASH//Luciferase reporter assay//PAR-CLIP//qRT-PCR//Sequencing//Western blot	20371350|23622248|22492871|23592263|22012620	Bone marrow
+hsa-mir-181a-5p	MIMAT0000256	RNF6	6049	PAR-CLIP	21572407|20371350	Bone marrow
+hsa-mir-181b-5p	MIMAT0000257	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-181b-5p	MIMAT0000257	RNF6	6049	PAR-CLIP	21572407|20371350	Bone marrow
+hsa-mir-181c-5p	MIMAT0000258	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-181c-5p	MIMAT0000258	RNF6	6049	PAR-CLIP	21572407|20371350	Bone marrow
+hsa-mir-199b-5p	MIMAT0000263	DDX3X	1654	PAR-CLIP	21572407	Bone marrow
+hsa-mir-215-5p	MIMAT0000272	DDX3X	1654	Microarray	19074876	Bone marrow
+hsa-mir-215-5p	MIMAT0000272	RNF6	6049	Microarray	19074876	Bone marrow
+hsa-mir-216a-5p	MIMAT0000273	ELOVL4	6785	HITS-CLIP	23824327	Bone marrow
+hsa-mir-221-3p	MIMAT0000278	FMR1	2332	Luciferase reporter assay	23390134	Bone marrow
+hsa-mir-222-3p	MIMAT0000279	MEGF9	1955	Microarray//qRT-PCR	22815788	Bone marrow
+hsa-mir-15b-5p	MIMAT0000417	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-23b-3p	MIMAT0000418	ACAT1	38	Sequencing	20371350	Bone marrow
+hsa-mir-23b-3p	MIMAT0000418	HAPLN1	1404	HITS-CLIP	23824327	Bone marrow
+hsa-mir-27b-3p	MIMAT0000419	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-30b-5p	MIMAT0000420	ELOVL4	6785	CLASH	23622248	Bone marrow
+hsa-mir-125b-5p	MIMAT0000423	MEGF9	1955	Luciferase reporter assay//Western blot	24098452	Bone marrow
+hsa-mir-133a-3p	MIMAT0000427	HAPLN1	1404	HITS-CLIP	27418678	Bone marrow
+hsa-mir-9-5p	MIMAT0000441	ACAT1	38	Luciferase reporter assay//qRT-PCR//Western blot	24028971	Bone marrow
+hsa-mir-125a-5p	MIMAT0000443	MEGF9	1955	Microarray//qRT-PCR	22815788	Bone marrow
+hsa-mir-136-5p	MIMAT0000448	RNF6	6049	HITS-CLIP	24374217	Bone marrow
+hsa-mir-186-5p	MIMAT0000456	RNF6	6049	Sequencing	20371350	Bone marrow
+hsa-mir-195-5p	MIMAT0000461	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-155-5p	MIMAT0000646	OLR1	4973	Western blot	21030878	Bone marrow
+hsa-mir-130b-3p	MIMAT0000691	FMR1	2332	Luciferase reporter assay//qRT-PCR//Western blot	24021279	Bone marrow
+hsa-mir-363-3p	MIMAT0000707	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-302c-5p	MIMAT0000716	RNF6	6049	PAR-CLIP	24398324|20371350	Bone marrow
+hsa-mir-373-5p	MIMAT0000725	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-374a-5p	MIMAT0000727	FMR1	2332	HITS-CLIP	22473208	Bone marrow
+hsa-mir-342-3p	MIMAT0000753	DDX3X	1654	PAR-CLIP	20371350	Bone marrow
+hsa-mir-337-3p	MIMAT0000754	DDX3X	1654	HITS-CLIP//PAR-CLIP	21572407	Bone marrow
+hsa-mir-151a-3p	MIMAT0000757	MEGF9	1955	Sequencing	20371350	Bone marrow
+hsa-mir-335-5p	MIMAT0000765	HAPLN1	1404	Microarray	18185580	Bone marrow
+hsa-mir-335-5p	MIMAT0000765	MEGF9	1955	Microarray	18185580	Bone marrow
+hsa-mir-133b	MIMAT0000770	HAPLN1	1404	HITS-CLIP	27418678	Bone marrow
+hsa-mir-424-5p	MIMAT0001341	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-410-3p	MIMAT0002171	DDX3X	1654	PAR-CLIP	20371350	Bone marrow
+hsa-mir-202-5p	MIMAT0002810	DDX3X	1654	HITS-CLIP//PAR-CLIP	21572407	Bone marrow
+hsa-mir-493-5p	MIMAT0002813	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-432-5p	MIMAT0002814	MEGF9	1955	HITS-CLIP	24374217	Bone marrow
+hsa-mir-497-5p	MIMAT0002820	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-181d-5p	MIMAT0002821	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-181d-5p	MIMAT0002821	RNF6	6049	PAR-CLIP	21572407|20371350	Bone marrow
+hsa-mir-498	MIMAT0002824	RNF6	6049	PAR-CLIP	24398324|21572407|20371350	Bone marrow
+hsa-mir-501-5p	MIMAT0002872	ELOVL4	6785	HITS-CLIP	23824327	Bone marrow
+hsa-mir-503-5p	MIMAT0002874	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-505-3p	MIMAT0002876	DDX3X	1654	PAR-CLIP	21572407	Bone marrow
+hsa-mir-513a-5p	MIMAT0002877	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-455-5p	MIMAT0003150	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-545-3p	MIMAT0003165	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-92b-3p	MIMAT0003218	DDX3X	1654	CLASH//HITS-CLIP//PAR-CLIP	23622248|23446348|21572407	Bone marrow
+hsa-mir-548a-3p	MIMAT0003251	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-590-5p	MIMAT0003258	OLR1	4973	Luciferase reporter assay	26932825	Bone marrow
+hsa-mir-590-5p	MIMAT0003258	RNF6	6049	PAR-CLIP	21572407	Bone marrow
+hsa-mir-612	MIMAT0003280	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-616-5p	MIMAT0003284	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-651-5p	MIMAT0003321	DDX3X	1654	HITS-CLIP//PAR-CLIP	23446348|21572407	Bone marrow
+hsa-mir-651-5p	MIMAT0003321	OLR1	4973	PAR-CLIP	23592263	Bone marrow
+hsa-mir-421	MIMAT0003339	DDX3X	1654	PAR-CLIP//Sequencing	20371350|21572407	Bone marrow
+hsa-mir-802	MIMAT0004185	RNF6	6049	PAR-CLIP	24398324|21572407|20371350	Bone marrow
+hsa-mir-16-1-3p	MIMAT0004489	RNF6	6049	PAR-CLIP	22012620	Bone marrow
+hsa-mir-196a-3p	MIMAT0004562	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-let-7g-3p	MIMAT0004584	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-130a-5p	MIMAT0004593	HAPLN1	1404	HITS-CLIP	23824327	Bone marrow
+hsa-mir-186-3p	MIMAT0004612	OLR1	4973	PAR-CLIP	22012620	Bone marrow
+hsa-mir-296-3p	MIMAT0004679	RNF6	6049	CLASH	23622248	Bone marrow
+hsa-mir-130b-5p	MIMAT0004680	DDX3X	1654	CLASH	23622248	Bone marrow
+hsa-mir-371a-5p	MIMAT0004687	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-423-5p	MIMAT0004748	OLR1	4973	PAR-CLIP	23592263	Bone marrow
+hsa-mir-505-5p	MIMAT0004776	DDX3X	1654	CLASH	23622248	Bone marrow
+hsa-mir-574-5p	MIMAT0004795	OLR1	4973	HITS-CLIP//PAR-CLIP	23592263|22012620|23824327	Bone marrow
+hsa-mir-590-3p	MIMAT0004801	OLR1	4973	PAR-CLIP	23592263	Bone marrow
+hsa-mir-624-3p	MIMAT0004807	DDX3X	1654	PAR-CLIP	20371350	Bone marrow
+hsa-mir-889-3p	MIMAT0004921	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-877-5p	MIMAT0004949	MEGF9	1955	CLASH	23622248	Bone marrow
+hsa-mir-543	MIMAT0004954	DDX3X	1654	PAR-CLIP	21572407	Bone marrow
+hsa-mir-543	MIMAT0004954	RNF6	6049	PAR-CLIP	24398324|21572407|20371350	Bone marrow
+hsa-mir-1224-5p	MIMAT0005458	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-1227-3p	MIMAT0005580	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-1227-3p	MIMAT0005580	RNF6	6049	PAR-CLIP	22012620	Bone marrow
+hsa-mir-1285-3p	MIMAT0005876	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-548f-3p	MIMAT0005895	DDX3X	1654	PAR-CLIP	24398324|23446348|21572407|20371350	Bone marrow
+hsa-mir-1254	MIMAT0005905	OLR1	4973	HITS-CLIP	23824327	Bone marrow
+hsa-let-7a-2-3p	MIMAT0010195	OLR1	4973	HITS-CLIP	23706177	Bone marrow
+hsa-mir-1260b	MIMAT0015041	ACAT1	38	CLASH	23622248	Bone marrow
+hsa-mir-3180-3p	MIMAT0015058	OLR1	4973	HITS-CLIP	23824327	Bone marrow
+hsa-mir-3605-5p	MIMAT0017981	DDX3X	1654	PAR-CLIP	23592263|22012620	Bone marrow
+hsa-mir-3613-3p	MIMAT0017991	OLR1	4973	HITS-CLIP	19536157	Bone marrow
+hsa-mir-23c	MIMAT0018000	HAPLN1	1404	HITS-CLIP	23824327	Bone marrow
+hsa-mir-3180	MIMAT0018178	OLR1	4973	HITS-CLIP	23824327	Bone marrow
+hsa-mir-103a-3p	MIMAT0000101	ACAT1	38	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-107	MIMAT0000104	ACAT1	38	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-23a-3p	MIMAT0000078	ACAT1	38	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	ACAT1	38	"RPF-Seq, RNA-Seq"	tarbase	Bone marrow
+hsa-mir-10b-5p	MIMAT0000254	ACAT1	38	Microarrays	tarbase	Bone marrow
+hsa-mir-147a	MIMAT0000251	ACAT1	38	Microarrays	tarbase	Bone marrow
+hsa-mir-20a-5p	MIMAT0000075	ACAT1	38	Microarrays	tarbase	Bone marrow
+hsa-mir-224-5p	MIMAT0000281	ACAT1	38	Microarrays	tarbase	Bone marrow
+hsa-mir-671-5p	MIMAT0003880	ACAT1	38	Microarrays	tarbase	Bone marrow
+hsa-mir-1180-3p	MIMAT0005825	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-137	MIMAT0000429	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-141-5p	MIMAT0004598	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-142-3p	MIMAT0000434	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-149-5p	MIMAT0000450	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-19a-3p	MIMAT0000073	FMR1	2332	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-19b-3p	MIMAT0000074	FMR1	2332	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-203a-3p	MIMAT0000264	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29b-2-5p	MIMAT0004515	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29c-5p	MIMAT0004673	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-345-5p	MIMAT0000772	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-34b-5p	MIMAT0000685	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-34c-5p	MIMAT0000686	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-361-5p	MIMAT0000703	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-374b-5p	MIMAT0004955	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-378a-5p	MIMAT0000731	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-425-5p	MIMAT0003393	FMR1	2332	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-449b-5p	MIMAT0003327	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-449c-5p	MIMAT0010251	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-452-5p	MIMAT0001635	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-454-3p	MIMAT0003885	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-499a-3p	MIMAT0004772	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-500a-5p	MIMAT0004773	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-501-5p	MIMAT0002872	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-561-3p	MIMAT0003225	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-589-3p	MIMAT0003256	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-624-3p	MIMAT0004807	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-629-5p	MIMAT0004810	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-933	MIMAT0004976	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-940	MIMAT0004983	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-941	MIMAT0004984	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-96-5p	MIMAT0000095	FMR1	2332	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-132-3p	MIMAT0000426	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-139-5p	MIMAT0000250	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-148b-3p	MIMAT0000759	FMR1	2332	"HITS-CLIP, Microarrays"	tarbase	Bone marrow
+hsa-mir-153-3p	MIMAT0000439	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-377-3p	MIMAT0000730	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-485-3p	MIMAT0002176	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-495-3p	MIMAT0002817	FMR1	2332	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	FMR1	2332	RPF-Seq	tarbase	Bone marrow
+hsa-let-7b-5p	MIMAT0000063	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-129-2-3p	MIMAT0004605	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-147a	MIMAT0000251	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-210-3p	MIMAT0000267	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-214-3p	MIMAT0000271	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-224-5p	MIMAT0000281	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-155-5p	MIMAT0000646	FMR1	2332	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-9-5p	MIMAT0000441	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-mir-30a-5p	MIMAT0000087	FMR1	2332	Microarrays	tarbase	Bone marrow
+hsa-let-7g-3p	MIMAT0004584	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-101-3p	MIMAT0000099	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-142-3p	MIMAT0000434	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-15a-5p	MIMAT0000068	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-15b-5p	MIMAT0000417	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-16-5p	MIMAT0000069	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-17-5p	MIMAT0000070	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-183-5p	MIMAT0000261	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-20a-5p	MIMAT0000075	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-221-3p	MIMAT0000278	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-22-3p	MIMAT0000077	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-27a-3p	MIMAT0000084	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-27b-3p	MIMAT0000419	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-330-3p	MIMAT0000751	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-331-5p	MIMAT0004700	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-335-3p	MIMAT0004703	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-374a-5p	MIMAT0000727	MEGF9	1955	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-374b-5p	MIMAT0004955	MEGF9	1955	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-484	MIMAT0002174	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-497-5p	MIMAT0002820	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-571	MIMAT0003236	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-625-3p	MIMAT0004808	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-769-5p	MIMAT0003886	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-93-5p	MIMAT0000093	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-940	MIMAT0004983	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-941	MIMAT0004984	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-9-5p	MIMAT0000441	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-96-5p	MIMAT0000095	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-128-3p	MIMAT0000424	MEGF9	1955	"HITS-CLIP, Microarrays"	tarbase	Bone marrow
+hsa-mir-132-3p	MIMAT0000426	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-137	MIMAT0000429	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-181a-5p	MIMAT0000256	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-195-5p	MIMAT0000461	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-20b-5p	MIMAT0001413	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29a-3p	MIMAT0000086	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29b-3p	MIMAT0000100	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29c-3p	MIMAT0000681	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-34a-5p	MIMAT0000255	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-369-3p	MIMAT0000721	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-485-3p	MIMAT0002176	MEGF9	1955	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	MEGF9	1955	RPF-Seq	tarbase	Bone marrow
+hsa-mir-23b-3p	MIMAT0000418	MEGF9	1955	RNA-Seq	tarbase	Bone marrow
+hsa-mir-129-2-3p	MIMAT0004605	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-21-3p	MIMAT0004494	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-224-5p	MIMAT0000281	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-27a-5p	MIMAT0004501	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-7-5p	MIMAT0000252	MEGF9	1955	Microarrays	tarbase	Bone marrow
+hsa-mir-320a	MIMAT0000510	MEGF9	1955	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-320b	MIMAT0005792	MEGF9	1955	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-320c	MIMAT0005793	MEGF9	1955	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-320d	MIMAT0006764	MEGF9	1955	Chimeric fragments	tarbase	Bone marrow
+hsa-let-7b-5p	MIMAT0000063	SOD3	6649	Microarrays	tarbase	Bone marrow
+hsa-let-7d-5p	MIMAT0000065	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-let-7e-5p	MIMAT0000066	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-125a-5p	MIMAT0000443	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-125b-5p	MIMAT0000423	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-148b-3p	MIMAT0000759	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-152-3p	MIMAT0000438	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-22-3p	MIMAT0000077	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-29a-3p	MIMAT0000086	ELOVL4	6785	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-29b-3p	MIMAT0000100	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29c-3p	MIMAT0000681	ELOVL4	6785	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-30e-3p	MIMAT0000693	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-324-5p	MIMAT0000761	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-32-5p	MIMAT0000090	ELOVL4	6785	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-338-5p	MIMAT0004701	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-33a-3p	MIMAT0004506	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-33a-5p	MIMAT0000091	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-33b-5p	MIMAT0003301	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-590-3p	MIMAT0004801	ELOVL4	6785	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-629-5p	MIMAT0004810	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-708-5p	MIMAT0004926	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-92a-3p	MIMAT0000092	ELOVL4	6785	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-95-3p	MIMAT0000094	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-145-5p	MIMAT0000437	ELOVL4	6785	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	ELOVL4	6785	"RNA-Seq, Microarrays"	tarbase	Bone marrow
+hsa-mir-10b-5p	MIMAT0000254	ELOVL4	6785	Microarrays	tarbase	Bone marrow
+hsa-mir-129-2-3p	MIMAT0004605	ELOVL4	6785	Microarrays	tarbase	Bone marrow
+hsa-mir-16-5p	MIMAT0000069	ELOVL4	6785	Microarrays	tarbase	Bone marrow
+hsa-mir-182-5p	MIMAT0000259	ELOVL4	6785	Microarrays	tarbase	Bone marrow
+hsa-mir-203a-3p	MIMAT0000264	ELOVL4	6785	Microarrays	tarbase	Bone marrow
+hsa-let-7a-5p	MIMAT0000062	RNF6	6049	"Microarrays, HITS-CLIP"	tarbase	Bone marrow
+hsa-let-7b-5p	MIMAT0000063	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7c-5p	MIMAT0000064	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7d-5p	MIMAT0000065	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7e-5p	MIMAT0000066	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7f-5p	MIMAT0000067	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7g-5p	MIMAT0000414	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7i-5p	MIMAT0000415	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-130a-3p	MIMAT0000425	RNF6	6049	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-130b-3p	MIMAT0000691	RNF6	6049	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-148a-3p	MIMAT0000243	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-194-5p	MIMAT0000460	RNF6	6049	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-19a-3p	MIMAT0000073	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-19b-3p	MIMAT0000074	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-218-5p	MIMAT0000275	RNF6	6049	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-301a-3p	MIMAT0000688	RNF6	6049	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-301b-3p	MIMAT0004958	RNF6	6049	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-320a	MIMAT0000510	RNF6	6049	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-362-5p	MIMAT0000705	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-9-5p	MIMAT0000441	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-98-5p	MIMAT0000096	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-137	MIMAT0000429	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-574-5p	MIMAT0004795	RNF6	6049	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	RNF6	6049	"RPF-Seq, RNA-Seq"	tarbase	Bone marrow
+hsa-mir-103a-3p	MIMAT0000101	RNF6	6049	RIP-Seq	tarbase	Bone marrow
+hsa-mir-191-5p	MIMAT0000440	RNF6	6049	RIP-Seq	tarbase	Bone marrow
+hsa-mir-494-3p	MIMAT0002816	RNF6	6049	"RIP-Seq, RNA-Seq"	tarbase	Bone marrow
+hsa-mir-503-5p	MIMAT0002874	RNF6	6049	"RIP-Seq, RNA-Seq"	tarbase	Bone marrow
+hsa-mir-210-3p	MIMAT0000267	RNF6	6049	Microarrays	tarbase	Bone marrow
+hsa-mir-221-3p	MIMAT0000278	RNF6	6049	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-101-3p	MIMAT0000099	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-147a	MIMAT0000251	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-200b-3p	MIMAT0000318	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-21-3p	MIMAT0004494	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-27a-3p	MIMAT0000084	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-27a-5p	MIMAT0004501	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-30d-5p	MIMAT0000245	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-34a-5p	MIMAT0000255	MRAP2	112609	Microarrays	tarbase	Bone marrow
+hsa-mir-27a-5p	MIMAT0004501	HAPLN1	1404	Luciferase Reporter Assay	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	HAPLN1	1404	RPF-Seq	tarbase	Bone marrow
+hsa-mir-182-5p	MIMAT0000259	HAPLN1	1404	Microarrays	tarbase	Bone marrow
+hsa-mir-26a-5p	MIMAT0000082	HAPLN1	1404	Microarrays	tarbase	Bone marrow
+hsa-mir-34b-5p	MIMAT0000685	HAPLN1	1404	Microarrays	tarbase	Bone marrow
+hsa-mir-150-3p	MIMAT0004610	IL12A	3592	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-590-5p	MIMAT0003258	IL12A	3592	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-101-3p	MIMAT0000099	IL12A	3592	Microarrays	tarbase	Bone marrow
+hsa-mir-129-2-3p	MIMAT0004605	IL12A	3592	Microarrays	tarbase	Bone marrow
+hsa-mir-21-3p	MIMAT0004494	IL12A	3592	Microarrays	tarbase	Bone marrow
+hsa-mir-27a-5p	MIMAT0004501	IL12A	3592	Microarrays	tarbase	Bone marrow
+hsa-mir-7-5p	MIMAT0000252	IL12A	3592	Microarrays	tarbase	Bone marrow
+hsa-let-7e-5p	MIMAT0000066	OLR1	4973	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-186-5p	MIMAT0000456	OLR1	4973	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-216a-5p	MIMAT0000273	OLR1	4973	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-424-5p	MIMAT0001341	OLR1	4973	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-497-5p	MIMAT0002820	OLR1	4973	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-550a-3p	MIMAT0003257	OLR1	4973	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-582-3p	MIMAT0004797	OLR1	4973	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-9-5p	MIMAT0000441	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-103a-3p	MIMAT0000101	OLR1	4973	RNA-Seq	tarbase	Bone marrow
+hsa-mir-191-5p	MIMAT0000440	OLR1	4973	RNA-Seq	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-20a-5p	MIMAT0000075	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-210-3p	MIMAT0000267	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-29a-3p	MIMAT0000086	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-29c-3p	MIMAT0000681	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-671-5p	MIMAT0003880	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-mir-99b-5p	MIMAT0000689	OLR1	4973	Microarrays	tarbase	Bone marrow
+hsa-let-7a-5p	MIMAT0000062	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7b-3p	MIMAT0004482	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7b-5p	MIMAT0000063	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7c-5p	MIMAT0000064	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7d-5p	MIMAT0000065	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7e-5p	MIMAT0000066	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7f-5p	MIMAT0000067	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7g-5p	MIMAT0000414	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-let-7i-5p	MIMAT0000415	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-101-3p	MIMAT0000099	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-103a-3p	MIMAT0000101	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-107	MIMAT0000104	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-10a-3p	MIMAT0004555	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-125a-5p	MIMAT0000443	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-125b-2-3p	MIMAT0004603	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-125b-5p	MIMAT0000423	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-127-5p	MIMAT0004604	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-130b-3p	MIMAT0000691	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-133a-3p	MIMAT0000427	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-133b	MIMAT0000770	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-138-5p	MIMAT0000430	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-139-5p	MIMAT0000250	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-140-3p	MIMAT0004597	DDX3X	1654	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-141-5p	MIMAT0004598	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-144-3p	MIMAT0000436	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-145-5p	MIMAT0000437	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-148a-3p	MIMAT0000243	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-148b-3p	MIMAT0000759	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-149-3p	MIMAT0004609	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-150-3p	MIMAT0004610	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-152-3p	MIMAT0000438	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-16-2-3p	MIMAT0004518	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-17-3p	MIMAT0000071	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-182-5p	MIMAT0000259	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-183-3p	MIMAT0004560	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-183-5p	MIMAT0000261	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-188-5p	MIMAT0000457	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-192-3p	MIMAT0004543	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-197-3p	MIMAT0000227	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-199a-3p	MIMAT0000232	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-199b-3p	MIMAT0004563	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-19b-1-5p	MIMAT0004491	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-21-3p	MIMAT0004494	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-218-5p	MIMAT0000275	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-221-3p	MIMAT0000278	DDX3X	1654	"HITS-CLIP, PAR-CLIP, Chimeric fragments"	tarbase	Bone marrow
+hsa-mir-222-3p	MIMAT0000279	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-222-5p	MIMAT0004569	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-22-3p	MIMAT0000077	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-224-5p	MIMAT0000281	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-22-5p	MIMAT0004495	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-23a-3p	MIMAT0000078	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-23b-3p	MIMAT0000418	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-24-3p	MIMAT0000080	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-26b-3p	MIMAT0004500	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-27a-3p	MIMAT0000084	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-27b-3p	MIMAT0000419	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-29a-3p	MIMAT0000086	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-29a-5p	MIMAT0004503	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-29b-2-5p	MIMAT0004515	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-29b-3p	MIMAT0000100	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-29c-3p	MIMAT0000681	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-301b-3p	MIMAT0004958	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-302c-5p	MIMAT0000716	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-3065-5p	MIMAT0015066	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-30a-3p	MIMAT0000088	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-30b-5p	MIMAT0000420	DDX3X	1654	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-30c-5p	MIMAT0000244	DDX3X	1654	"PAR-CLIP, HITS-CLIP"	tarbase	Bone marrow
+hsa-mir-30d-3p	MIMAT0004551	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-30d-5p	MIMAT0000245	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-30e-3p	MIMAT0000693	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-30e-5p	MIMAT0000692	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-3180-3p	MIMAT0015058	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-32-3p	MIMAT0004505	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-324-5p	MIMAT0000761	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-330-3p	MIMAT0000751	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-338-3p	MIMAT0000763	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-338-5p	MIMAT0004701	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-339-3p	MIMAT0004702	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-339-5p	MIMAT0000764	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-33a-3p	MIMAT0004506	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-34a-3p	MIMAT0004557	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-361-3p	MIMAT0004682	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-3615	MIMAT0017994	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-361-5p	MIMAT0000703	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-374a-5p	MIMAT0000727	DDX3X	1654	PAR-CLIP	tarbase	Bone marrow
+hsa-mir-378a-3p	MIMAT0000732	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-412-3p	MIMAT0002170	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-4286	MIMAT0016916	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-484	MIMAT0002174	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-486-5p	MIMAT0002177	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-489-3p	MIMAT0002805	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-495-3p	MIMAT0002817	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-499a-3p	MIMAT0004772	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-500a-5p	MIMAT0004773	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-501-3p	MIMAT0004774	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-502-3p	MIMAT0004775	DDX3X	1654	"HITS-CLIP, PAR-CLIP"	tarbase	Bone marrow
+hsa-mir-511-5p	MIMAT0002808	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-520h	MIMAT0002867	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-548c-5p	MIMAT0004806	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-548d-5p	MIMAT0004812	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-561-3p	MIMAT0003225	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-582-3p	MIMAT0004797	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-582-5p	MIMAT0003247	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-584-5p	MIMAT0003249	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-664a-3p	MIMAT0005949	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-7-1-3p	MIMAT0004553	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-877-5p	MIMAT0004949	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-93-3p	MIMAT0004509	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-98-5p	MIMAT0000096	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-1-3p	MIMAT0000416	DDX3X	1654	"HITS-CLIP, RPF-Seq, Microarrays"	tarbase	Bone marrow
+hsa-mir-137	MIMAT0000429	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-382-5p	MIMAT0000737	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-485-3p	MIMAT0002176	DDX3X	1654	HITS-CLIP	tarbase	Bone marrow
+hsa-mir-155-5p	MIMAT0000646	DDX3X	1654	"RNA-Seq, Microarrays"	tarbase	Bone marrow
+hsa-mir-146a-5p	MIMAT0000449	DDX3X	1654	Microarrays	tarbase	Bone marrow
+hsa-mir-205-5p	MIMAT0000266	DDX3X	1654	Microarrays	tarbase	Bone marrow
+hsa-mir-210-3p	MIMAT0000267	DDX3X	1654	Microarrays	tarbase	Bone marrow
+hsa-mir-10a-5p	MIMAT0000253	DDX3X	1654	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-18a-5p	MIMAT0000072	DDX3X	1654	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-18b-5p	MIMAT0001412	DDX3X	1654	Chimeric fragments	tarbase	Bone marrow
+hsa-mir-19b	MIMAT0000074	FMR1	2332	other	20435064	Bone marrow
+hsa-mir-323-3p	MIMAT0000755	FMR1	2332	other	20435064	Bone marrow

@@ -1,0 +1,61 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-21-5p,MIMAT0000076,MEGF9,1955,Microarray,18591254,Bone marrow
+hsa-mir-197-3p,MIMAT0000227,MEGF9,1955,CLASH,23622248,Bone marrow
+hsa-mir-222-3p,MIMAT0000279,MEGF9,1955,Microarray//qRT-PCR,22815788,Bone marrow
+hsa-mir-125b-5p,MIMAT0000423,MEGF9,1955,Luciferase reporter assay//Western blot,24098452,Bone marrow
+hsa-mir-125a-5p,MIMAT0000443,MEGF9,1955,Microarray//qRT-PCR,22815788,Bone marrow
+hsa-mir-151a-3p,MIMAT0000757,MEGF9,1955,Sequencing,20371350,Bone marrow
+hsa-mir-335-5p,MIMAT0000765,MEGF9,1955,Microarray,18185580,Bone marrow
+hsa-mir-432-5p,MIMAT0002814,MEGF9,1955,HITS-CLIP,24374217,Bone marrow
+hsa-mir-877-5p,MIMAT0004949,MEGF9,1955,CLASH,23622248,Bone marrow
+hsa-let-7g-3p,MIMAT0004584,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-101-3p,MIMAT0000099,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-142-3p,MIMAT0000434,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-15a-5p,MIMAT0000068,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-15b-5p,MIMAT0000417,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-16-5p,MIMAT0000069,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-17-5p,MIMAT0000070,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-183-5p,MIMAT0000261,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-20a-5p,MIMAT0000075,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-221-3p,MIMAT0000278,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-22-3p,MIMAT0000077,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-27a-3p,MIMAT0000084,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-27b-3p,MIMAT0000419,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-330-3p,MIMAT0000751,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-331-5p,MIMAT0004700,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-335-3p,MIMAT0004703,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-374a-5p,MIMAT0000727,MEGF9,1955,PAR-CLIP,tarbase,Bone marrow
+hsa-mir-374b-5p,MIMAT0004955,MEGF9,1955,PAR-CLIP,tarbase,Bone marrow
+hsa-mir-484,MIMAT0002174,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-497-5p,MIMAT0002820,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-571,MIMAT0003236,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-625-3p,MIMAT0004808,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-769-5p,MIMAT0003886,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-93-5p,MIMAT0000093,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-940,MIMAT0004983,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-941,MIMAT0004984,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-9-5p,MIMAT0000441,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-96-5p,MIMAT0000095,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-128-3p,MIMAT0000424,MEGF9,1955,"HITS-CLIP, Microarrays",tarbase,Bone marrow
+hsa-mir-132-3p,MIMAT0000426,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-137,MIMAT0000429,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-181a-5p,MIMAT0000256,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-195-5p,MIMAT0000461,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-20b-5p,MIMAT0001413,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-29a-3p,MIMAT0000086,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-29b-3p,MIMAT0000100,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-29c-3p,MIMAT0000681,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-34a-5p,MIMAT0000255,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-369-3p,MIMAT0000721,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-485-3p,MIMAT0002176,MEGF9,1955,HITS-CLIP,tarbase,Bone marrow
+hsa-mir-1-3p,MIMAT0000416,MEGF9,1955,RPF-Seq,tarbase,Bone marrow
+hsa-mir-23b-3p,MIMAT0000418,MEGF9,1955,RNA-Seq,tarbase,Bone marrow
+hsa-mir-129-2-3p,MIMAT0004605,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-21-3p,MIMAT0004494,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-224-5p,MIMAT0000281,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-27a-5p,MIMAT0004501,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-7-5p,MIMAT0000252,MEGF9,1955,Microarrays,tarbase,Bone marrow
+hsa-mir-320a,MIMAT0000510,MEGF9,1955,Chimeric fragments,tarbase,Bone marrow
+hsa-mir-320b,MIMAT0005792,MEGF9,1955,Chimeric fragments,tarbase,Bone marrow
+hsa-mir-320c,MIMAT0005793,MEGF9,1955,Chimeric fragments,tarbase,Bone marrow
+hsa-mir-320d,MIMAT0006764,MEGF9,1955,Chimeric fragments,tarbase,Bone marrow

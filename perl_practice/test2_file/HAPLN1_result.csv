@@ -1,0 +1,15 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-21-5p,MIMAT0000076,HAPLN1,1404,Microarray,18591254,Bone marrow
+hsa-mir-23a-3p,MIMAT0000078,HAPLN1,1404,HITS-CLIP,23824327,Bone marrow
+hsa-mir-129-5p,MIMAT0000242,HAPLN1,1404,HITS-CLIP,27418678,Bone marrow
+hsa-mir-23b-3p,MIMAT0000418,HAPLN1,1404,HITS-CLIP,23824327,Bone marrow
+hsa-mir-133a-3p,MIMAT0000427,HAPLN1,1404,HITS-CLIP,27418678,Bone marrow
+hsa-mir-335-5p,MIMAT0000765,HAPLN1,1404,Microarray,18185580,Bone marrow
+hsa-mir-133b,MIMAT0000770,HAPLN1,1404,HITS-CLIP,27418678,Bone marrow
+hsa-mir-130a-5p,MIMAT0004593,HAPLN1,1404,HITS-CLIP,23824327,Bone marrow
+hsa-mir-23c,MIMAT0018000,HAPLN1,1404,HITS-CLIP,23824327,Bone marrow
+hsa-mir-27a-5p,MIMAT0004501,HAPLN1,1404,Luciferase Reporter Assay,tarbase,Bone marrow
+hsa-mir-1-3p,MIMAT0000416,HAPLN1,1404,RPF-Seq,tarbase,Bone marrow
+hsa-mir-182-5p,MIMAT0000259,HAPLN1,1404,Microarrays,tarbase,Bone marrow
+hsa-mir-26a-5p,MIMAT0000082,HAPLN1,1404,Microarrays,tarbase,Bone marrow
+hsa-mir-34b-5p,MIMAT0000685,HAPLN1,1404,Microarrays,tarbase,Bone marrow
