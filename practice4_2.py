@@ -6,7 +6,7 @@ if __name__ == '__main__':
 
     myrec = []
     for seq_record in SeqIO.parse('perl_practice/test4_file/3.fasta_seq.txt', "fasta"):
-        rec = SeqRecord(seq_record.seq.reverse_complement(), id=seq_record.id)
+        rec = SeqRecord(seq_record.seq.reverse_complement(), id=seq_record.id) #获取反向序列
         myrec.append(rec)
     SeqIO.write(myrec, 'perl_practice/test4_file/rev_pair_seq.txt', "fasta")
 
@@ -16,7 +16,7 @@ if __name__ == '__main__':
     T_count = []
     C_count = []
     G_count = []
-    for donor in donors['donor']:
+    for donor in donors['donor']: #统计每个位点各碱基数量
         A_count.append(donor.count('A'))
         T_count.append(donor.count('T'))
         C_count.append(donor.count('C'))

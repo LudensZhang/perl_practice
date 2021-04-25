@@ -6,6 +6,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', '--file', type=str, default='perl_practice/test4_file/3.fasta_seq.txt', help='input fasta file, support multiple fasta in one file')
+    #默认路径为perl_practice/test4_file/3.fasta_seq.txt
     gene_id = []
     gene_seq = []
     gene_len = []
