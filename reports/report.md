@@ -147,28 +147,16 @@ if __name__ == '__main__':
     print('1-1000求和', sum(test))
 
     form_test = pd.read_csv('perl_practice/test3_file/form_test', sep=' ', header=None)
+
     form_test.columns = ['col1', 'col2', 'col3', 'col4']
-    form_test['col1'] = round(form_test['col1'], 2) #将第一列保留两位小数
-
-    col2 = []                                       #将第二列控制为10位
-    for num in form_test['col2']:
-        col2.append(format(num, '10f'))
-    form_test['col2'] = col2
-
-    col3 = []                                       #将第三列替换为科学计数法
-    for num in form_test['col3']:
-        col3.append(format(num, 'e'))
-    form_test['col3'] = col3
-
-    col4 = []                                      #将第四列转换为16进制
-    for num in form_test['col4']:
-        col4.append(hex(num))
-    form_test['col4'] = col4
-
+    for num in form_test.index:
+        form_test.loc[num, 'col1'] = round(form_test.loc[num, 'col1'], 2)
+        form_test.loc[num, 'col2'] = eval(str(form_test.loc[num, 'col2'])[0:11])
+        form_test.loc[num, 'col3'] = format(form_test.loc[num, 'col3'], 'e')
+        form_test.loc[num, 'col4'] = hex(form_test.loc[num, 'col4'])
     print('格式化输出为')
     print(form_test)
     form_test.to_csv('perl_practice/test3_file/form_print.txt', sep='\t', header=None)
-
 ```
 运行结果如下
 ![](result_3.jpg)
