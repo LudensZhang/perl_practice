@@ -1,5 +1,5 @@
 ## <center>perl上机报告</center>
-###### <p align=Right> --登峰1901 张皓鸿 </p
+###### <p align=Right> --登峰1901 张皓鸿 </p>
 ### <center>上机一</center>
 #### 选取在sample1中表达量大于5000的基因symbol，gene id，并按gene id大小排序
 ```
