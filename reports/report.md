@@ -1,5 +1,41 @@
-## Python上机报告
-###### <p align=Right> --登峰1901 张皓鸿 </p>
+## <center>perl上机报告</center>
+###### <p align=Right> --登峰1901 张皓鸿 </p
+### <center>上机一</center>
+#### 选取在sample1中表达量大于5000的基因symbol，gene id，并按gene id大小排序
+```
+awk '$2 > 5000' gene_expression_example.txt > f1
+sort -k 2 -n f1 > f1_sorted
+```
+#### 选取samlple2-sample1差异大于100的基因，并统计数目
+```
+awk '($3 - $2) > 100'  gene_expression_example.txt > f2
+echo "sample2 - sample1的表达量大于一百的基因的数目"
+awk '{print NR}' f2 | tail -n1
+```
+
+#### 选取所有5个样本（sample1-5）中表达量都大于100的基因，统计数目
+```
+awk '$2 > 100 && $3 > 100 && $4 > 100 && $5 > 100 && $6 > 100' gene_expression_example.txt > f3
+echo "所有五个样本表达量大于一百的基因的数目"
+awk '{print NR}' f3 | tail -n1
+```
+
+#### 选取sample1,5中表达低于50，而sample2,3,4中大于100的基因，列出gene symbol并统计数目
+```
+ awk '$2 < 50 && $6 < 50 && $3 >100 && $4 >100 && $5 > 100' gene_expression_example.txt >f4
+ echo "sample1,5中表达低于50，而sample2,3,4中大于100的基因"
+ awk '{print NR}' f4 | tail -n1
+ ```
+
+#### 获得所有“E”开头的基因在5个样本中的表达量\
+```
+awk '/^E/' gene_expression_example.txt > f5
+echo 所有“E”开头的基因在5个样本中的表达量
+cat f5
+```
+运行结果如下
+![](practice1_result.jpg)
+### <center>上机二</center>
 #### 练习一
 代码
 ```
@@ -150,13 +186,15 @@ if __name__ == '__main__':
 
     form_test.columns = ['col1', 'col2', 'col3', 'col4']
     for num in form_test.index:
-        form_test.loc[num, 'col1'] = round(form_test.loc[num, 'col1'], 2)
-        form_test.loc[num, 'col2'] = eval(str(form_test.loc[num, 'col2'])[0:11])
-        form_test.loc[num, 'col3'] = format(form_test.loc[num, 'col3'], 'e')
-        form_test.loc[num, 'col4'] = hex(form_test.loc[num, 'col4'])
+        form_test.loc[num, 'col1'] = round(form_test.loc[num, 'col1'], 2) #保留两位小数
+        form_test.loc[num, 'col2'] = eval(str(form_test.loc[num, 'col2'])[0:11]) #控制10位输出
+        form_test.loc[num, 'col3'] = format(form_test.loc[num, 'col3'], 'e') #科学计数法
+        form_test.loc[num, 'col4'] = hex(form_test.loc[num, 'col4']) #转为16进制
+
     print('格式化输出为')
     print(form_test)
     form_test.to_csv('perl_practice/test3_file/form_print.txt', sep='\t', header=None)
+
 ```
 运行结果如下
 ![](result_3.jpg)
